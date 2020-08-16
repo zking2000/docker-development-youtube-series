@@ -1,0 +1,1 @@
+{"jobID":"8b243797-6b16-292d-958b-1e3806dc95fa","spec":{"type":"policy","cause":{"Message":"","User":"zking2000 \u003c3065482@qq.com\u003e"},"spec":{"default:deployment/example-deploy":{"add":{"tag.example-app":"glob:1.0.*"},"remove":{}}}},"result":null}
