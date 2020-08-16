@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: nginx-deployment
   annotations:
-    fluxcd.io/tag.example-app: semver:~1.0
+    fluxcd.io/tag.nginx: semver:~1.0
     fluxcd.io/automated: 'true'
 spec:
   selector:
